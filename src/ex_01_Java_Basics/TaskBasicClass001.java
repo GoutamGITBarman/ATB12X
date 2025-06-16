@@ -10,8 +10,5 @@ public class TaskBasicClass001 {
     }
 
 
-    public class @%ASD {
-        //two special character not for class name
 
-    }
 }
