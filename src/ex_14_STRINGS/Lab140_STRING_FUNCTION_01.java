@@ -5,9 +5,9 @@ public class Lab140_STRING_FUNCTION_01 {
 //        String s1="HELLO"; // SCP
 //        String s2= new String("world"); // OA
 
-        String str1 = "Hello";
+        String str1 = "Hello GOUTAM";
         String str2 = "Hello";
-        String str3 = new String("Hello");
+        String str3 = new String("Hello GOUTAM");
         System.out.println(str1 == str2);
         System.out.println(str1 == str3);
         System.out.println(str1.equals(str3));

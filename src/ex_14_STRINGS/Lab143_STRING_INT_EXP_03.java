@@ -1,5 +1,5 @@
 package ex_14_STRINGS;
-
+// LABSTRING EXAMPLE
 public class Lab143_STRING_INT_EXP_03 {
     public static void main(String[] args) {
 
