@@ -1,6 +1,6 @@
-package ex_19_OOPS_02.MultiLevel;
-import ex_19_OOPS_02.inheritance.multipleheritance.Father2;
-public class Lab189_MultiLevel_01 {
+package ex_19_OOPS_02.InHeritance.Multilevel;
+
+public class Lab189_Multilevel {
     public static void main(String[] args) {
         Son pramod = new Son();
         Father f = new Father();

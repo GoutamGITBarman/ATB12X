@@ -1,4 +1,4 @@
-package ex_19_OOPS_02.MultiLevel;
+package ex_19_OOPS_02.InHeritance.Multilevel;
 
 public class Son extends Father{
     void bhk3(){

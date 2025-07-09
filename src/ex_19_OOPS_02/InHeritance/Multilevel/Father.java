@@ -1,8 +1,8 @@
-package ex_19_OOPS_02.MultiLevel;
+package ex_19_OOPS_02.InHeritance.Multilevel;
 
 public class Father extends GrandFather{
 
-//    void home(){
+    //    void home(){
 //        System.out.println("Father Home");
 //    }
 
